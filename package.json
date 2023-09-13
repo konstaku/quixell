@@ -1,0 +1,11 @@
+{
+  "name": "quixell",
+  "version": "1.0.0",
+  "description": "A platform for lending and borrowing game items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Kupriyanov",
+  "license": "ISC"
+}
